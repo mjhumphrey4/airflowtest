@@ -1,2 +1,0 @@
-# airflowtest
-Apache Airflow Test
